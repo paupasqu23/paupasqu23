@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paupasqu23
 - 👀 I’m interested in computers and basketball
-- 🌱 I’m currently learning basic coding
+- 🌱 I’m currently learning basic coding and 3-d printed stuff made with OpensCad, Blender and FreeCad
 - 📫 How to reach me --> via github
