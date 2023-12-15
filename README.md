@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paupasqu23
+- 👀 I’m interested in computers and basketball
+- 🌱 I’m currently learning basic coding
+- 📫 How to reach me --> via github
